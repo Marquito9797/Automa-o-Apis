@@ -1,0 +1,9 @@
+{
+  "confirmados": [
+    {
+      "pedidoId": 1,
+      "validacoes": []
+    }
+  ],
+  "erros": []
+}
